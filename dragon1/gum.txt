@@ -1,0 +1,38 @@
+36
+
+
+5
+I am using Git Bash and am trying a few things like making a 'commit' and 'push' to GitHub. I want to get out of the current directory C:\user\myUsername\app and land in the C:\user\myUsername folder.
+
+What commands do I write in Git Bash?
+
+windowsgitgithubgit-bash
+Share
+Edit
+Follow
+edited Sep 8, 2018 at 0:23
+Lauren Rutledge's user avatar
+Lauren Rutledge
+1,16555 gold badges2121 silver badges2727 bronze badges
+asked Jun 23, 2012 at 15:20
+vin's user avatar
+vin
+85944 gold badges1616 silver badges3333 bronze badges
+9
+use cd .. its a windows prompt command. – 
+uday
+ Jun 23, 2012 at 15:22
+2
+What do you mean by "it doesn't work"? – 
+Mat
+ Jun 23, 2012 at 15:29
+10
+Note: cd.. works only in windows command prompt, whereas cd .. works almost everywhere - including (linux) bash and (my) Git bash. – 
+dyp
+ Jun 23, 2012 at 15:47 
+@DyP : thanks for the correction :) – 
+vin
+ Jun 23, 2012 at 15:58
+Add a comment
+5 Answers
+Sorted by:
